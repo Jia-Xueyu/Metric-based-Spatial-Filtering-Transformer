@@ -4,4 +4,4 @@
 
 ### The original EEG data is preprocessed by CSP (refer to [TSF-STAN](https://github.com/Jia-Xueyu/TSF-STAN)), and then the final output is obtained through EEG pyramid and MSFT. The whole process of the method is shown in the figure below.
 
-![method.jpg](D:\MI\pyramid_vit\markdown\pics\method.jpg)
+![method.jpg](./pics/method.jpg)
